@@ -1,4 +1,4 @@
-remote_theme: longpdo/neumorphism
+theme: tareqdandachi/jekyll-shell-theme
 plugins:
 - jekyll-remote-theme
 title: UID LIST
